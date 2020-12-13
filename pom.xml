@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dmarut</groupId>
 	<artifactId>school-register</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>school-register</name>
 	<description>Project for online school registry</description>
 
